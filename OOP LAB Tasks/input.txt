@@ -1,0 +1,9 @@
+Transaction closed: 0308-6566991 | Amount: 500
+Transaction closed: 0345-1234567 | Amount: 6000
+Transaction closed: 0300-0000000 | Amount: 250
+Transaction closed: 0308-6566919 | Amount: 500
+Transaction closed: 0345-1234567 | Amount: 6000
+Transaction closed: 0300-0000000 | Amount: 250
+Transaction closed: 0308-6566919 | Amount: 500
+Transaction closed: 0345-1234567 | Amount: 6000
+Transaction closed: 0300-0000000 | Amount: 250

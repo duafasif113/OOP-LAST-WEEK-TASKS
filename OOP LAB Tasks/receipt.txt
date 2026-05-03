@@ -1,0 +1,4 @@
+Day End Summary
+Type: Mobile load Cash Drawer500Rs  Commision: 12Rs
+Type: EasyPaisa cash-out Cash Drawer6000Rs  Commision: 28Rs
+Type: Sim Replacement Cash Drawer250Rs  Commision: 150Rs
